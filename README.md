@@ -5,7 +5,7 @@
 
 # Состав группы
 Казакова Вероника (github: akinoreee)  
-Самохина Кира (github: )  
+Самохина Кира (github: ksamokhina)  
 Чиркина Анна (github: achirkina-eng)
 
 # Разделение обязанностей
